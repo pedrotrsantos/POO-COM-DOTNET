@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\bin\Debug\net6.0\01Conceitos.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\bin\Debug\net6.0\01Conceitos.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\bin\Debug\net6.0\01Conceitos.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\bin\Debug\net6.0\01Conceitos.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\bin\Debug\net6.0\01Conceitos.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\refint\01Conceitos.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\01Conceitos.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\obj\Debug\net6.0\ref\01Conceitos.dll
