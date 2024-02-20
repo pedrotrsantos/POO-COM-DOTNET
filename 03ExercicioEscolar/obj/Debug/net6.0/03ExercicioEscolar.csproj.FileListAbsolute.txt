@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\refint\03ExercicioEscolar.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\03ExercicioEscolar\obj\Debug\net6.0\ref\03ExercicioEscolar.dll

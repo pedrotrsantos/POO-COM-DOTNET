@@ -4,7 +4,6 @@ class Pessoa //molde
         //atributos
 
         public string nome; 
-
         public int idade;
 
         //metodos
