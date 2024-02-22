@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\bin\Debug\net6.0\001ClasseEObjeto.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\bin\Debug\net6.0\001ClasseEObjeto.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\bin\Debug\net6.0\001ClasseEObjeto.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\bin\Debug\net6.0\001ClasseEObjeto.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\bin\Debug\net6.0\001ClasseEObjeto.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\refint\001ClasseEObjeto.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\001ClasseEObjeto.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\001ClasseEObjeto\obj\Debug\net6.0\ref\001ClasseEObjeto.dll
