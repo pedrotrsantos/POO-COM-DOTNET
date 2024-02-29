@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\bin\Debug\net6.0\002Visibilidade.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\bin\Debug\net6.0\002Visibilidade.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\bin\Debug\net6.0\002Visibilidade.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\bin\Debug\net6.0\002Visibilidade.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\bin\Debug\net6.0\002Visibilidade.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\refint\002Visibilidade.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\002Visibilidade.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\002Visibilidade\obj\Debug\net6.0\ref\002Visibilidade.dll

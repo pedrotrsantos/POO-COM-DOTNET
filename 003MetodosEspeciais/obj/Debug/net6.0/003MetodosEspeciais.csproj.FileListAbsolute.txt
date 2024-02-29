@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\bin\Debug\net6.0\003MetodosEspeciais.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\bin\Debug\net6.0\003MetodosEspeciais.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\bin\Debug\net6.0\003MetodosEspeciais.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\bin\Debug\net6.0\003MetodosEspeciais.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\bin\Debug\net6.0\003MetodosEspeciais.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\refint\003MetodosEspeciais.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\003MetodosEspeciais.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\003MetodosEspeciais\obj\Debug\net6.0\ref\003MetodosEspeciais.dll

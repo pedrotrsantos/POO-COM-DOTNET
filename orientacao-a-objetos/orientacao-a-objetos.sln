@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06Encapsulamento", "..\06En
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guanabara", "Guanabara", "{4C2C50FE-82AA-4513-9060-73C96D214AC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001ClasseEObjeto", "..\001ClasseEObjeto\001ClasseEObjeto.csproj", "{DBC1A14D-DC9B-4BA2-926E-3BE12DB8D95E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001ClasseEObjeto", "..\001ClasseEObjeto\001ClasseEObjeto.csproj", "{DBC1A14D-DC9B-4BA2-926E-3BE12DB8D95E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001Exercicio", "..\001Exercicio\001Exercicio.csproj", "{6DF90B0F-1449-4586-8EE9-90A8E63A8DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001Exercicio", "..\001Exercicio\001Exercicio.csproj", "{6DF90B0F-1449-4586-8EE9-90A8E63A8DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002Visibilidade", "..\002Visibilidade\002Visibilidade.csproj", "{63DED077-A984-4054-BB45-C31C7937236D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003MetodosEspeciais", "..\003MetodosEspeciais\003MetodosEspeciais.csproj", "{C75030F0-E3C4-454E-A815-AFF55EE957B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +63,14 @@ Global
 		{6DF90B0F-1449-4586-8EE9-90A8E63A8DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DF90B0F-1449-4586-8EE9-90A8E63A8DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DF90B0F-1449-4586-8EE9-90A8E63A8DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DED077-A984-4054-BB45-C31C7937236D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DED077-A984-4054-BB45-C31C7937236D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DED077-A984-4054-BB45-C31C7937236D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DED077-A984-4054-BB45-C31C7937236D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75030F0-E3C4-454E-A815-AFF55EE957B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75030F0-E3C4-454E-A815-AFF55EE957B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75030F0-E3C4-454E-A815-AFF55EE957B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75030F0-E3C4-454E-A815-AFF55EE957B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +78,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DBC1A14D-DC9B-4BA2-926E-3BE12DB8D95E} = {4C2C50FE-82AA-4513-9060-73C96D214AC5}
 		{6DF90B0F-1449-4586-8EE9-90A8E63A8DBE} = {4C2C50FE-82AA-4513-9060-73C96D214AC5}
+		{63DED077-A984-4054-BB45-C31C7937236D} = {4C2C50FE-82AA-4513-9060-73C96D214AC5}
+		{C75030F0-E3C4-454E-A815-AFF55EE957B0} = {4C2C50FE-82AA-4513-9060-73C96D214AC5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96983CA3-3712-48E8-8513-605FFE77F342}
