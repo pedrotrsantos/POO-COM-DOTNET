@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\bin\Debug\net6.0\004ExercicioContaBanco.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\bin\Debug\net6.0\004ExercicioContaBanco.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\bin\Debug\net6.0\004ExercicioContaBanco.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\bin\Debug\net6.0\004ExercicioContaBanco.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\bin\Debug\net6.0\004ExercicioContaBanco.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\refint\004ExercicioContaBanco.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\004ExercicioContaBanco.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\004ExercicioContaBanco\obj\Debug\net6.0\ref\004ExercicioContaBanco.dll
