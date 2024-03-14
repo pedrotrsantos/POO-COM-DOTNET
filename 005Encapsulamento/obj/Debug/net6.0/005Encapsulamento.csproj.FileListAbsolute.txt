@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\bin\Debug\net6.0\005Encapsulamento.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\bin\Debug\net6.0\005Encapsulamento.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\bin\Debug\net6.0\005Encapsulamento.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\bin\Debug\net6.0\005Encapsulamento.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\bin\Debug\net6.0\005Encapsulamento.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\refint\005Encapsulamento.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\005Encapsulamento.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\005Encapsulamento\obj\Debug\net6.0\ref\005Encapsulamento.dll

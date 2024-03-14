@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\bin\Debug\net6.0\05Acesso.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\bin\Debug\net6.0\05Acesso.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\bin\Debug\net6.0\05Acesso.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\bin\Debug\net6.0\05Acesso.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\bin\Debug\net6.0\05Acesso.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\refint\05Acesso.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\05Acesso.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\05Acesso\obj\Debug\net6.0\ref\05Acesso.dll
