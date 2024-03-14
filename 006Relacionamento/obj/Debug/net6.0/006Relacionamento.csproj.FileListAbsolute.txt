@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\bin\Debug\net6.0\006Relacionamento.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\bin\Debug\net6.0\006Relacionamento.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\bin\Debug\net6.0\006Relacionamento.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\bin\Debug\net6.0\006Relacionamento.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\bin\Debug\net6.0\006Relacionamento.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\refint\006Relacionamento.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\006Relacionamento.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\006Relacionamento\obj\Debug\net6.0\ref\006Relacionamento.dll
