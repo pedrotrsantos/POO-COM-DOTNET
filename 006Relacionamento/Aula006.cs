@@ -37,9 +37,5 @@ class Aula006
 
         l[5].Apresentar();
         l[5].GanharLuta();
-        l[5].Status();
-
-
-
-    }
+        l[5].Status();    }
 }
