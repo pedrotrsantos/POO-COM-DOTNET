@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\bin\Debug\net6.0\007ExerciciosPoo.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\bin\Debug\net6.0\007ExerciciosPoo.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\bin\Debug\net6.0\007ExerciciosPoo.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\bin\Debug\net6.0\007ExerciciosPoo.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\bin\Debug\net6.0\007ExerciciosPoo.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\refint\007ExerciciosPoo.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\007ExerciciosPoo.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\007ExerciciosPoo\obj\Debug\net6.0\ref\007ExerciciosPoo.dll
