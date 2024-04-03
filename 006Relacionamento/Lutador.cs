@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace _006Relacionamento
 {
-    class Lutador
+    public class Lutador
     {
-        private string Nome { get; set; }
+        public string Nome { get; set; }
         private string Nacionalidade { get; set; }
         private int Idade { get; set; }
         private double Altura { get; set; }
         private double Peso { get; set; }
-        private string Categoria { get; set; }
+        public string Categoria { get; set; }
         private int Vitorias { get; set; }
         private int Derrotas { get; set; }
         private int Empates { get; set; }
