@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005Encapsulamento", "..\005
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006Relacionamento", "..\006Relacionamento\006Relacionamento.csproj", "{76B89989-43C0-4B0F-8787-86B42DD67BEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007ExerciciosPoo", "..\007ExerciciosPoo\007ExerciciosPoo.csproj", "{4F9B8B78-76ED-49D5-9261-1A1817B68640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007ExerciciosPoo", "..\007ExerciciosPoo\007ExerciciosPoo.csproj", "{4F9B8B78-76ED-49D5-9261-1A1817B68640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008HerancaA", "008HerancaA\008HerancaA.csproj", "{E0BFBA1F-B00D-4CD4-97FB-1D44CFBAC220}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{4F9B8B78-76ED-49D5-9261-1A1817B68640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F9B8B78-76ED-49D5-9261-1A1817B68640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F9B8B78-76ED-49D5-9261-1A1817B68640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BFBA1F-B00D-4CD4-97FB-1D44CFBAC220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BFBA1F-B00D-4CD4-97FB-1D44CFBAC220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BFBA1F-B00D-4CD4-97FB-1D44CFBAC220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BFBA1F-B00D-4CD4-97FB-1D44CFBAC220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

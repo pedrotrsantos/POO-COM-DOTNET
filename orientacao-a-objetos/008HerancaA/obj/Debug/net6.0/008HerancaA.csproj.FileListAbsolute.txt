@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\bin\Debug\net6.0\008HerancaA.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\bin\Debug\net6.0\008HerancaA.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\bin\Debug\net6.0\008HerancaA.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\bin\Debug\net6.0\008HerancaA.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\bin\Debug\net6.0\008HerancaA.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\refint\008HerancaA.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\008HerancaA.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\008HerancaA\obj\Debug\net6.0\ref\008HerancaA.dll
