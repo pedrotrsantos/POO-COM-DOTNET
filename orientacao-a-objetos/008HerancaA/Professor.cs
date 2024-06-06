@@ -30,7 +30,7 @@ namespace _008HerancaA
         {    
             Salario += aumento;
             Console.WriteLine($"Recebeu um aumento de {aumento} reais \n"); 
-            StatusProfessor();
+            Status();
         }
 
         public void GerarProfessor()
@@ -40,7 +40,7 @@ namespace _008HerancaA
             GerarSalario();
         }
 
-        public void StatusProfessor()
+        public override void Status()
         {
            
             Console.WriteLine($"O professor: {Nome}\n" +

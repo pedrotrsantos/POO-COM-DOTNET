@@ -55,7 +55,7 @@ namespace _008HerancaA
             Config();
             GerarSetor();
         }
-        public void StatusFuncionario()
+        public override void Status()
         {
             Console.WriteLine($"O Funcionario: {Nome}\n" +  $"Setor: {Setor}");
             StatusTrabalho();

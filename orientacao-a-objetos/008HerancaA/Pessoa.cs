@@ -57,7 +57,7 @@ namespace _008HerancaA
             Console.WriteLine("\n");
         }
       
-        public void FazerAniversario()
+        public void  FazerAniversario()
         {
             Idade++;
             Console.WriteLine("Feliz aniversário!\n");

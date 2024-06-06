@@ -9,12 +9,25 @@ namespace _008HerancaA
 {
     internal class Aluno : Pessoa
     {
-        int Matricula { get; set; }
-        string Curso { get; set; }
+        protected int Matricula { get; set; }
+        public string Curso { get; set; }
+        protected bool MensalidadePaga { get;  set; }
+        public double ValorMensalidade { get; set; }
+        protected string StatusMensalidade { get; set; }
 
+        protected  string Tipo { get; set; }
         string[] Cursos = new string[5] { "ADS", "Direito", "Adminstracao", "Fisica", "Medicina" };
 
-        public void EscolherCurso()
+        string[] Tipos = new string[3] {"Comum", "Bolsista", "Técnico" };
+
+        public Aluno()
+        {
+            ValorMensalidade = 1000.00;
+            MensalidadePaga = false;
+            Tipo = "Comum";
+        }
+
+        protected void EscolherCurso()
         {
             Console.WriteLine("Escolha seu curso entre os disponiveis:");
             foreach (string c in Cursos)
@@ -66,7 +79,13 @@ namespace _008HerancaA
             Curso = Cursos[r];
            
         }
-        private void GerarMatricula()
+        private void GerarTipo()
+        {
+            Random rnd = new Random();
+            int r = rnd.Next(Tipos.Length);
+            Tipo = Tipos[r];
+        }
+        protected void GerarMatricula()
         {
             Random rdn = new Random();
             Matricula = rdn.Next(999,9999);
@@ -82,15 +101,51 @@ namespace _008HerancaA
             GerarMatricula();
             // GerarCurso();
             EscolherCurso();
+           // GerarTipo();
+
+        }
+
+        public virtual void PagarMensalidade(double valorPago)
+        {
+            if (valorPago < ValorMensalidade)
+            {
+                Console.WriteLine("Sua não foi paga! Valor insuficiente\n");
+            }else if( valorPago > ValorMensalidade)
+            {
+                double troco = valorPago - ValorMensalidade; 
+                Console.WriteLine($"Sua mensalidade foi paga!Você tem R${troco} de troco\n");
+                MensalidadePaga = true;
+            }
+            else
+            {
+                MensalidadePaga = true;
+                Console.WriteLine("Sua mensalidade foi paga!\n");
+            }
+        }
+
+        protected void AlterarStatusMensalidade()
+        {
+            if (MensalidadePaga == true)
+            {
+                StatusMensalidade = "Quitada";
+            }
+            else
+            {
+                StatusMensalidade = "Em débito";
+            }
         }
         
         public override void Status()
         {
-            Console.WriteLine($"O aluno: {Nome}\n" +
-                $"de {Idade} anos\n" +
+            AlterarStatusMensalidade();
+            Console.WriteLine($"Aluno: {Nome}\n" +
+                $"Idade {Idade} anos\n" +
                 $"Sexo: {Sexo}\n" +
                 $"Curso: {Curso}\n" +
-                $"Matrícula: {Matricula}");
+                $"Matrícula: {Matricula}\n" +
+                $"Tipo: {Tipo}\n" +
+                $"Mensalidade: {ValorMensalidade}\n" +
+                $"Estado: {StatusMensalidade} \n");
         }
     }
 }
