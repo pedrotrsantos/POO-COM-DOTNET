@@ -11,6 +11,9 @@ class Program
         c1.Locomover();
         c1.AbanarRabo();
         canguru.Locomover();
+        canguru.SetCorPelo("pRETO");
+        canguru.SetPeso(28.0);
+        canguru.Status();
 
     }
 }
