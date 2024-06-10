@@ -8,12 +8,9 @@ class Program
 
         Canguru canguru = new Canguru();
         Cachorro c1 = new Cachorro();
-        c1.Locomover();
-        c1.AbanarRabo();
-        canguru.Locomover();
-        canguru.SetCorPelo("pRETO");
-        canguru.SetPeso(28.0);
-        canguru.Status();
-
+        c1.Reagir("tchitiu");
+        c1.Reagir(5,2);
+        c1.Reagir(false);
+        c1.Reagir(10, 2.0);
     }
 }
