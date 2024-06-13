@@ -1,0 +1,15 @@
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\bin\Debug\net6.0\010ProjetoFinal.exe
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\bin\Debug\net6.0\010ProjetoFinal.deps.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\bin\Debug\net6.0\010ProjetoFinal.runtimeconfig.json
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\bin\Debug\net6.0\010ProjetoFinal.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\bin\Debug\net6.0\010ProjetoFinal.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.AssemblyInfo.cs
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\refint\010ProjetoFinal.dll
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.pdb
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\010ProjetoFinal.genruntimeconfig.cache
+C:\Users\Pedro Thiago\Documents\Estudo\POO-COM-DOTNET\orientacao-a-objetos\010ProjetoFinal\obj\Debug\net6.0\ref\010ProjetoFinal.dll
